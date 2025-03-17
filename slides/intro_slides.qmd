@@ -111,7 +111,7 @@ format:
 
 # Facilitated Networking {.smaller}
 
-## **Part 1: Meet & Pass Networking Game**
+**Part 1: Meet & Pass Networking Game**
 - Upon arrival, you received **a card with three participants’ names**.
 - **Step 1:** Find the person on your card and introduce yourself.
 - **Step 2:** Have a **5-minute conversation** using these prompts:
@@ -120,7 +120,7 @@ format:
   - *If you could collaborate with someone outside your discipline, what expertise would they bring?*
 - **Step 3:** Repeat the process with the next name on your card (for ~3 rounds).
 
-## **Part 2: Free Networking**
+**Part 2: Free Networking**
 - Use this time to connect with people you want to talk to based on the presentations.
 
 ---
