@@ -1,6 +1,6 @@
 ---
 title: "AI in Medicine Workshop"
-subtitle: "18 February 2025, I-X"
+subtitle: "18 February 2025, I-X,I-HUB"
 format:
   html:
     page-layout: full
@@ -38,7 +38,18 @@ To facilitate these connections, this workshop provides a space for Imperial res
 
 The workshop will take place at:
 
-**I-X (Level 6), Translation and Innovation Hub (I-HUB), Imperial White City Campus**  
-[Google Maps](https://maps.app.goo.gl/zESc6iByAM7MNxZU7)
+- **Date:** Tuesday 18 March. 2:30pm - 5:30pm
+- **Location:**
+  - LRT 608A+B, I-X, 6th Floor I-HUB (Translation & Innovation Hub)
+  - Imperial College White City Campus
+  - 84 Wood Lane
+  - London
+  - W12 0BZ
+  - [Location Map](https://maps.app.goo.gl/7frVbSAWWfQgtm757)
+- **How to Reach the Event**:
+  - [Directions to the White City Campus](https://www.imperial.ac.uk/white-city-campus/about-us/how-to-find-us/)
+  - On arrival at the I-Hub, reception will give you access to the lifts to 
+  reach the 6th floor. Please follow signs to LRT 608A+B
+  
 
 ---
