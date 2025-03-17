@@ -1,0 +1,15 @@
+---
+title: "Ahmed Alboksmaty"
+subtitle: "Surgery and Cancer"
+image: headshots/ahmed-alboksmaty.png
+categories:
+  - PhD Student
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/ahmedalboksmaty/ 
+---
+
+Ahmed Alboksmaty is a Clinical Research Fellow and PhD Candidate at the Institute of Global Health Innovation, Department of Surgery and Cancer, Imperial College London. I have 6+ years of experience working in health policy for quality and patient safety with the United Nations, mainly WHO, in addition to two years as an Academic Clinical Fellow at the University of Cambridge in the same field and two extra years as a Research Associate with the Department of Primary Care and Public Health at Imperial College (2020-2022). I am also a GP Registrar with a special interest in digital health technologies in primary care.

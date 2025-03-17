@@ -1,0 +1,15 @@
+---
+title: "Oshini Shivakumar"
+subtitle: "Surgery and Cancer"
+image: headshots/oshini-shivakumar.png
+categories:
+  - PhD Student
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/osh369?s=21&t=aLH0d2320DlK-Faq8bnryQ
+---
+
+Oshini Shivakumar is a Renal Trainee with an interest in dialysis care and research. She is currently pursuing a PhD to study individuals returning to dialysis after kidney transplant failure- mortality risk and patient experience. This project is in collaboration with the Renal Research Institute, New York. She is one of the Registrar representatives of the UK Kidney Associations' Kidney Quality Improvement Project looking at patients with Advanced Kidney. She is interested in learning and advancing AI in renal medicine, including dietetic advice for individuals on dialysis in a mult-ethnic population such as West London. 

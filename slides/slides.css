@@ -1,0 +1,11 @@
+.reveal .slide-logo {
+  height: 50px !important;
+  width: 400px !important;
+  max-width: unset !important;
+  max-height: unset !important;
+}
+
+
+.reveal .visible .visible  {
+  font-size: 90% !important;
+}

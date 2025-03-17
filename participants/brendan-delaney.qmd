@@ -1,0 +1,11 @@
+---
+title: "Brendan Delaney"
+subtitle: "Surgery and Cancer"
+image: headshots/brendan-delaney.png
+categories:
+  - Professor
+about:
+  template: jolla
+---
+
+Professor Brendan Delaney is Chair in Medical Informatics at Imperial College London, specialising in the Learning Health System concept, AI in healthcare, and clinical informatics. His research focuses on applied AI, explainable AI for healthcare, and improving diagnostic pathways.

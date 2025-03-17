@@ -1,0 +1,15 @@
+---
+title: "Mary Brenda Akoda"
+subtitle: "Computing"
+image: headshots/mary-brenda-akoda.png
+categories:
+  - Master Student
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/mary-brenda-akoda/
+---
+
+Mary-Brenda Akoda is a Google DeepMind Scholar and Master of Research (MRes) student in AI & ML, currently working at I-X on novel deep generative models for accelerated MRI reconstruction. With a diverse background spanning AI, software engineering, and entrepreneurship, her experience includes a patent in AI for Ophthalmology, pioneering contributions across three teams at Microsoft—including at the Microsoft MR/AI Research Lab in Cambridge—and co-founding a Mastercard‑backed Edtech startup for African languages preservation. She also mentors underrepresented youth in AI and software engineering, and her Udemy ChatGPT Masterclass is rated in the top 3% of courses.

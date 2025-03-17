@@ -1,0 +1,11 @@
+---
+title: "Sofia Yaliraki"
+subtitle: "Chemistry"
+image: headshots/sofia-yaliraki.png
+categories:
+  - Professor
+about:
+  template: jolla
+---
+
+Sofia Yaliraki is a Professor of Theoretical Chemistry in the Department of Chemistry at Imperial College London. Her research interests include the development of theoretical and computational methodologies for complex molecular systems.

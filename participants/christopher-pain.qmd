@@ -1,0 +1,15 @@
+---
+title: "Christopher Pain"
+subtitle: "Earth Science and Engineering"
+image: headshots/christopher-pain.png
+categories:
+  - Professor
+about:
+  template: jolla
+  links:
+    - icon: Personal Website
+      text: Personal Website
+      href: https://profiles.imperial.ac.uk/c.pain
+---
+
+Christopher Pain is a computational physicist who is head of the Applied Modelling and Computation Group in the Department of Earth Science and Engineering, as well as head of  the Data Assimilation lab in the DSI and a co-director of the Imperial-X initiative "Centre for AI-Physics Modelling". He has a background in numerical methods, computational fluid dynamics, AI, data assimilation and optimisation problems, and currently works on problems in health and the environment, and geothermal, wind and nuclear energy.  

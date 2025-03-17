@@ -1,0 +1,15 @@
+---
+title: "Kris Parag"
+subtitle: "School of Public Health"
+image: headshots/kris-parag.png
+categories:
+  - Advanced Research Fellow
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/krisparag1
+---
+
+Kris is an advanced research fellow with a engineering background and experience in infectious disease modelling. He is interested in better using statistical and machine learning to improve how real-time decisions are made in the face of uncertain data.

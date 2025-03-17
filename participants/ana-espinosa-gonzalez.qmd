@@ -1,0 +1,11 @@
+---
+title: "Ana Espinosa Gonzalez"
+subtitle: "School of Public Health"
+image: headshots/ana-espinosa-gonzalez.png
+categories:
+  - Research Associate
+about:
+  template: jolla
+---
+
+Ana Espinosa is a general practitioner and research associate at the School of Public Health. She is also working as research manager for the Northwest London Integrated Care Board Health Equity programme. She has a background on health systems and policy, health service research and is interested in the use of AI tools to support healthcare management decision making. Rachel Christie is the Senior Population Data analytics at the NWL Integrated Care Board. She has a background in public health and is interested in developing risk stratification and prediction tools to support ICB decisions. 

@@ -1,0 +1,11 @@
+---
+title: "Sen Wang"
+subtitle: "Electrical and Electronic Engineering"
+image: headshots/sen-wang.png
+categories:
+  - Senior lecturer
+about:
+  template: jolla
+---
+
+Sen Wang is a Senior Lecturer at the Department of Electrical and Electronic Engineering and I-X. His research sits at the intersection of robotics, computer vision and machine learning, driving robots to understand and operate autonomously in unstructured, dynamic environments through probabilistic and learning approaches. 

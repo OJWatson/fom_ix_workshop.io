@@ -1,0 +1,15 @@
+---
+title: "Jane Hirst"
+subtitle: "School of Public Health"
+image: headshots/jane-hirst.png
+categories:
+  - Professor
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/drJaneHirst
+---
+
+Jane Hirst is an academic obstetrician and Chair of Global Women's Health, Imperial and Program Director for the Women's Health Program at the George Institute for Global Health. She has expertise in pregnancy complications, digital and mHealth solutions, climate change and women's health and is developing a program around how AI can improve women's access to quality healthcare globally.

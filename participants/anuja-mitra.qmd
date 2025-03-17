@@ -1,0 +1,15 @@
+---
+title: "Anuja Mitra"
+subtitle: "Surgery and Cancer"
+image: headshots/anuja-mitra.png
+categories:
+  - Research Fellow
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/AnujaMitra2
+---
+
+Anuja Mitra is an MRC Clinical Research Fellow and an upper GI surgeon by background. She completed her PhD, funded by the Royal College of Surgeons, MRC, and NIHR, investigating metabolomics and early biomarker detection to enhance patient outcomes in oesophago-gastric cancer. Her current research focuses on advancing surgical safety, quality, and outcomes through intra-operative video analysis and AI-driven innovations.

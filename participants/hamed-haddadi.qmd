@@ -1,0 +1,11 @@
+---
+title: "Hamed Haddadi"
+subtitle: "Computing"
+image: headshots/hamed-haddadi.png
+categories:
+  - Professor
+about:
+  template: jolla
+---
+
+Hamed Haddadi is a Reader in Human-Centred Systems at the Dyson School of Design Engineering, Imperial College London. His research focuses on user-centric systems, privacy, and applied machine learning.

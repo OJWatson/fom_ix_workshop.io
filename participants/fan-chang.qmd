@@ -1,0 +1,11 @@
+---
+title: "Fan Chung"
+subtitle: "National Heart and Lung Institute"
+image: headshots/fan-chang.png
+categories:
+  - Professor
+about:
+  template: jolla
+---
+
+Professor of respiratory Medicine and Clinician. respiratory disease mechanisms and pohenotyping. Effect of air pollution.

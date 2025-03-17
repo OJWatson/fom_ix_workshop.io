@@ -1,0 +1,15 @@
+---
+title: "Alejandra Tomas"
+subtitle: "Metabolism, Digestion and Reproduction"
+image: headshots/alejandra-tomas.png
+categories:
+  - Reader
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/TomasLab_ICL
+---
+
+Alejandra Tomas is a Reader in Cell Biology and Head of Section of Cell Biology and Functional Genomics at the Dept. of Metabolism, Digestion and Reproduction. Her research is focused on the study of the spatiotemporal regulation of signalling and mechanisms of signal compartmentalisation of the glucagon receptor family in pancreatic islets and other metabolically relevant cell types (hepatocytes, adipocytes, etc.), for the control of blood glucose levels and related metabolic parameters, with direct application to the development of novel type 2 diabetes (T2D), obesity, and metabolic dysfunction-associated steatotic liver disease (MASLD) therapies. 

@@ -1,0 +1,15 @@
+---
+title: "Manolo Perez"
+subtitle: "Life Sciences"
+image: headshots/manolo-perez.png
+categories:
+  - Research Fellow
+about:
+  template: jolla
+  links:
+    - icon: Personal Website
+      text: Personal Website
+      href: https://sites.google.com/site/manolofperez/home
+---
+
+Manolo Perez is a Schmidt AI in science fellow in Life Sciences. His background is on population genetics and evolution. He has been applying AI models to evolutionary biology models recently, with a focus on viral phylogenies.

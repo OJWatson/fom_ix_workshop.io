@@ -1,0 +1,15 @@
+---
+title: "Kelly Zhang"
+subtitle: "Mathematics"
+image: headshots/kelly-zhang.png
+categories:
+  - Lecturer
+about:
+  template: jolla
+  links:
+    - icon: Personal Website
+      text: Personal Website
+      href: https://kellywzhang.github.io/
+---
+
+Kelly Zhang is a Lecturer in statistics and I-X. She has a background in designing decision-making algorithms and collaborating with people in digital health.

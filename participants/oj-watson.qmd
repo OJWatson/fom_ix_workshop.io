@@ -1,0 +1,11 @@
+---
+title: "OJ Watson"
+subtitle: "School of Public Health"
+image: headshots/oj-watson.png
+categories:
+  - Lecturer
+about:
+  template: jolla
+---
+
+Oliver Watson is a lecturer and Schmidt AI in science fellow in the School of Public Health. He has with a background in infectious disease modelling in malaria and COVID-19, and an interest in applying AI methods for pandemic preparedness.

@@ -1,0 +1,15 @@
+---
+title: "Beatriz Galindo Prieto"
+subtitle: "School of Public Health"
+image: headshots/beatriz-galindo-prieto.png
+categories:
+  - Research Associate
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: www.linkedin.com/in/beatrizgalindoprieto
+---
+
+Beatriz Galindo-Prieto is a research associate with an integrated MSc 5-years degree in Chemistry at the University of the Balearic Islands (Spain), and a PhD at Umea University (Sweden) in Chemometrics/Chemistry focused on machine learning algorithm development (especially related to partial least squares methods and variable influence on projection) and its applications in natural and medical sciences, as well as industry. She worked as research fellow (with her own funded 1-year fellowship, ERCIM) at the Department of Engineering Cybernetics of NTNU (Norway), and as research associate at Weill Cornell Medicine (Alzheimer's and omics data analysis) and at IDE and ERG of School of Public Health of Imperial College London, where she is interested on AI approaches for Environmental Health. 

@@ -1,0 +1,15 @@
+---
+title: "Fadil Bidmos"
+subtitle: "Infectious Disease"
+image: headshots/fadil-bidmos.png
+categories:
+  - Senior lecturer
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/fadilbidmos/
+---
+
+Fadil Bidmos is a MRC Senior (Non-Clinical) Fellow and Proleptic Senior Lecturer in Bacterial Vaccinology in the Department of Infectious Disease. His research programme focusses on designing and developing next-generation vaccines for bacterial meningitis and AMR threats He has an interest in application of ML approaches to therapeutic antibody and vaccine antigen discovery. 

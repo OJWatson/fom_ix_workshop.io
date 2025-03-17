@@ -1,0 +1,15 @@
+---
+title: "Mahdi Moradi Marjaneh"
+subtitle: "Infectious Disease"
+image: headshots/mahdi-moradi-marjaneh.png
+categories:
+  - Advanced Research Fellow
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/mahdi-moradi-marjaneh/
+---
+
+I am an Advanced Research Fellow in Bioinformatics and Precision Medicine, working closely with the Virology as well as Pediatrics Infectious Disease sections in the Department of Infectious Disease. With a background in clinical medicine and extensive experience in bioinformatics, I have an interest in applying AI to precision medicine.

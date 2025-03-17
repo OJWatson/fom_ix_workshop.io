@@ -1,0 +1,15 @@
+---
+title: "Frederick Wai Keung Tam"
+subtitle: "Immunology and Inflammation"
+image: headshots/frederick-wai-keung-tam.png
+categories:
+  - Professor
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/FrederickTam2
+---
+
+Frederick Tam is the Ken and Mary Minton Chair of Renal Medicine. He has been investigating the importance of cytokines in pathogenesis of kidney diseases.. The expertise of his research group has been applied in the preclinical and early clinical development of anti-inflammatory therapies, in collaboration with the industry. He has been collaborating with Imperial College Health Partners (ICHP) and Institute of Global Health Innovation (IGHI) to improve early diagnosis and personalised treatment of kidney diseases.

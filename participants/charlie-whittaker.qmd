@@ -1,0 +1,15 @@
+---
+title: "Charlie Whittaker"
+subtitle: "School of Public Health"
+image: headshots/charlie-whittaker.png
+categories:
+  - Research Fellow
+about:
+  template: jolla
+  links:
+    - icon: Personal Website
+      text: Personal Website
+      href: https://www.charleswhittaker.net/
+---
+
+Dr. Charles Whittaker is a Sir Henry Wellcome Research Fellow and incoming Assistant Professor of Infectious Diseases and Vaccinology at Berkeley Public Health where his work focuses on the dynamics, detectability and control of pathogens with pandemic potential. His work uses viral phylodynamics and epidemiological modelling to uncover new insights into how pathogens spread through populations and to enhance preparedness and response strategies for public health emergencies.

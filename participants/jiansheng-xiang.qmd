@@ -1,0 +1,15 @@
+---
+title: "Jiansheng Xiang"
+subtitle: "Earth Science and Engineering"
+image: headshots/jiansheng-xiang.png
+categories:
+  - Research Fellow
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/jiansheng-xiang-61524261/
+---
+
+Dr Jiansheng Xiang is a research fellow in Computational Mechanics. Jiansheng has a great passion for research in applied mathematics and modelling and has continuously diversified his efforts to numerous fields of engineering mathematics and its application areas: computational fluid/solid mechanics, fluid-solid interactions, heat transfer, fracture mechanics, and turbulent flow.

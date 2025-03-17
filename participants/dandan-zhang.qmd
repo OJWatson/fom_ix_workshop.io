@@ -1,0 +1,15 @@
+---
+title: "Dandan Zhang"
+subtitle: "Bioengineering"
+image: headshots/dandan-zhang.png
+categories:
+  - Lecturer
+about:
+  template: jolla
+  links:
+    - icon: Personal Website
+      text: Personal Website
+      href: https://www.intelligentrobotics-acrossscales.com/
+---
+
+Dandan Zhang is a Lecturer at Imperial-X and the Department of Bioengineering. Her research interests lie at the intersection of robotics and AI, with a focus on healthcare applications.

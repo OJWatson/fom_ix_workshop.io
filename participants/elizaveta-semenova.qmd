@@ -1,0 +1,15 @@
+---
+title: "Elizaveta Semenova"
+subtitle: "School of Public Health"
+image: headshots/elizaveta-semenova.png
+categories:
+  - Lecturer
+about:
+  template: jolla
+  links:
+    - icon: Personal Website
+      text: Personal Website
+      href: https://elizaveta-semenova.com/
+---
+
+Elizaveta (Liza) Semenova is a lecturer in Biostatistics, Computational Epidemiology, and Machine Learning at the School of Public Health, and a Schmidt Sciences AI2050 Early Career Fellow. Her research focuses on scalable methods for spatiotemporal statistics and Bayesian machine learning in epidemiology, including deep generative models to enhance MCMC inference in spatial and disease transmission modelling. Looking ahead, she looks to broaden research portfolio by broadening the application of deep learning surrogates.

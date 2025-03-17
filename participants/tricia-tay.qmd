@@ -1,0 +1,15 @@
+---
+title: "Tricia Tay"
+subtitle: "Surgery and Cancer"
+image: headshots/tricia-tay.png
+categories:
+  - PhD Student
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/tricia_tay123
+---
+
+Tricia is a Clinical Research Fellow and second year PhD student in the Institute of Global Health Innovation. She has background in surgery and clinical education. She has an interest in improving care of older adults. 

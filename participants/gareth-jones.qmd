@@ -1,0 +1,11 @@
+---
+title: "Gareth Jones"
+subtitle: "Surgery and Cancer"
+image: headshots/gareth-jones.png
+categories:
+  - Senior lecturer
+about:
+  template: jolla
+---
+
+Gareth Jones is a senior clinical lecturer and consultant knee surgeon at Imperial College. He has a background in optimising the treatment of knee osteoarthritis, with a number of publications exploring the use of AI to triage patients and predict osteoarthritis progression, determine surgical treatment options, and analyse outcomes. 

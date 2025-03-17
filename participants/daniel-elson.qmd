@@ -1,0 +1,15 @@
+---
+title: "Daniel Elson"
+subtitle: "Surgery and Cancer"
+image: headshots/daniel-elson.png
+categories:
+  - Professor
+about:
+  template: jolla
+  links:
+    - icon: Personal Website
+      text: Personal Website
+      href: https://www.imperial.ac.uk/hamlyn-centre/research/research-groups/surgical-imaging-and-biophotonics/
+---
+
+Daniel Elson is Professor in the Hamlyn Centre for Robotic Surgery, Department of Surgery and Cancer and the Institute of Global Health Innovation. His group develops and clinically translates optical and photonics technologies for surgical endoscopic sensing and imaging applications, to provide minimally-invasive diagnostic guidance and to characterise different disease states during intervention. Current technologies under investigation include multispectral, polarization-resolved and fluorescence sensing/imaging, supported by computer vision and robotic guidance techniques. 

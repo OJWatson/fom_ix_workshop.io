@@ -1,0 +1,15 @@
+---
+title: "Juan Delgado"
+subtitle: "National Heart and Lung Institute"
+image: headshots/juan-delgado.png
+categories:
+  - Research Associate
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/juan-delgado-datascience/
+---
+
+Juan Delgado is a post-doctoral researcher at the NHLI (faculty of Medicine). He has a background in mathematical biology in multiple disease areas within drug discovery.

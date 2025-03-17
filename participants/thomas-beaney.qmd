@@ -1,0 +1,15 @@
+---
+title: "Thomas Beaney"
+subtitle: "School of Public Health"
+image: headshots/thomas-beaney.png
+categories:
+  - Research Fellow
+about:
+  template: jolla
+  links:
+    - icon: Personal Website
+      text: Personal Website
+      href: https://tbeaney.github.io/MMclustering/
+---
+
+Thomas Beaney is a GP and Clinical Research at The George Institute for Global Health. He has a background in epidemiology and during his recent PhD, developed AI methods for learning patterns of chronic conditions using electronic health record data. 

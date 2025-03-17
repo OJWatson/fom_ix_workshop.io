@@ -1,0 +1,11 @@
+---
+title: "Ollie Jones"
+subtitle: "National Heart and Lung Institute"
+image: headshots/ollie-jones.png
+categories:
+  - Research Fellow
+about:
+  template: jolla
+---
+
+I am a BHF Clinical Research Fellow in Cardiology. I have paused my clinical work to undertake a PhD Hammersmith Hospital. This involves collecting electrical data in cath labs and mapping the patterns of activity algorithmically.

@@ -1,0 +1,44 @@
+---
+title: "AI in Medicine Workshop"
+subtitle: "18 February 2025, I-X"
+format:
+  html:
+    page-layout: full
+---
+
+
+<div style="text-align: center;">
+  <h1>AI in Medicine Workshop</h1>
+  <p class="subtitle lead">18 February 2025, I-X</p>
+</div>
+
+--- 
+
+The "AI in Medicine Workshop" is a half-day event bringing together researchers, clinicians, data scientists, and AI experts from across Imperial College London to explore innovative applications of AI in medicine. The event aims to foster interdisciplinary collaborations and catalyse future funding opportunities for AI-driven healthcare research.
+
+To facilitate these connections, this workshop provides a space for Imperial researchers from diverse disciplines to share expertise, identify synergies, and initiate new collaborations that can lead to innovative research and funding proposals.
+
+## Workshop Schedule
+
+- **Welcome & Introductions (2:30 – 2:45 PM)**  
+
+- **Who’s in the Room? (2:45 – 3:00 PM)**  
+
+- **Breakout Working Groups (3:00 – 4:00 PM)**  
+
+- **Group Sharing & Discussion (4:00 – 4:30 PM)**  
+
+- **Facilitated Networking (4:30 – 5:15 PM)**  
+
+- **Closing Remarks (5:15 – 5:30 PM)**  
+
+- **Networking Reception (5:30 PM onwards)**  
+
+## Venue
+
+The workshop will take place at:
+
+**I-X (Level 6), Translation and Innovation Hub (I-HUB), Imperial White City Campus**  
+[Google Maps](https://maps.app.goo.gl/zESc6iByAM7MNxZU7)
+
+---

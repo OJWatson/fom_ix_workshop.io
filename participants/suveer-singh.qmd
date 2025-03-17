@@ -1,0 +1,15 @@
+---
+title: "Suveer Singh"
+subtitle: "Surgery and Cancer"
+image: headshots/suveer-singh.png
+categories:
+  - Professor
+about:
+  template: jolla
+  links:
+    - icon: Personal Website
+      text: Personal Website
+      href: www.respiratorydoctor.co.uk
+---
+
+Suveer Singh is Professor of Practice in Respiratory and Intensive Care at Imperial College-Royal Brompton and Chelsea&Westminster Hospitals. He has a background in educational training and bronchoscopy research. More recently developing better standards for training in bronchoscopy using novel technologies including AI 

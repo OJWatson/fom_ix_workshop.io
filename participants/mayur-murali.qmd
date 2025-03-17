@@ -1,0 +1,11 @@
+---
+title: "Mayur Murali"
+subtitle: "Surgery and Cancer"
+image: headshots/mayur-murali.png
+categories:
+  - PhD Student
+about:
+  template: jolla
+---
+
+Mayur Murali is an anaesthesia and intensive care medicine registrar and PhD candidate in the Faculty of Medicine at Imperial College London. He has an interest in applying AI methods to understand critical care ventilation data.

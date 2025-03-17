@@ -1,0 +1,11 @@
+---
+title: "Yang Guang"
+subtitle: "Bioengineering"
+image: headshots/yang-guang.png
+categories:
+  - Senior Lecturer
+about:
+  template: jolla
+---
+
+Dr. Guang Yang is an Associate Professor in the Department of Bioengineering and Imperial-X at Imperial College London. His research focuses on developing AI-based techniques for medical image analysis and healthcare applications.

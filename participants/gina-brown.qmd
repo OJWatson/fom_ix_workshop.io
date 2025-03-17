@@ -1,0 +1,16 @@
+---
+title: "Gina Brown"
+subtitle: "Surgery and Cancer"
+image: headshots/gina-brown.png
+categories:
+  - Professor
+about:
+  template: jolla
+  links:
+    - icon: Personal Website
+      text: Personal Website
+      href: www.profginabrown.com
+---
+
+Professor Gina Brown is a Consultant Radiologist and Professor of Gastrointestinal Cancer Imaging at Imperial College. Over her career, she has made significant contributions to the field of colorectal cancer
+Professor Brown's work has been recognized globally, and she has contributed to several guidelines and initiatives aimed at improving cancer care

@@ -1,0 +1,11 @@
+---
+title: "Becca Asquith"
+subtitle: "Infectious Disease"
+image: headshots/becca-asquith.png
+categories:
+  - Professor
+about:
+  template: jolla
+---
+
+Becca Asquith is a professor in Mathematical Immunology. She is trained in mathematics and theoretical particle physics (to PhD level) but now works in human immunology. She has expertise in using both mechanistic and data-driven modelling approaches to study human adaptive immunity and immune cell dynamics.

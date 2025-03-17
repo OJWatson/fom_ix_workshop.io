@@ -1,0 +1,11 @@
+---
+title: "Weihua Zhang"
+subtitle: "School of Public Health"
+image: headshots/weihua-zhang.png
+categories:
+  - Research Associate
+about:
+  template: jolla
+---
+
+Weihua Zhang is a bioinformatician in the School of Public Health. She has a background in Genetic Epidemiology / Statistical Genetics / Epidemiology, and is interested in applying AI methods to large biobank and omics studies to identify risk factors for disease predicative models and future prevention of diseases. 

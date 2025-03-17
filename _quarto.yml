@@ -1,0 +1,36 @@
+project:
+  type: website
+
+execute:
+  freeze: auto
+
+website:
+
+  navbar:
+    background: "#4A5864"  # Background color for navbar (menu part)
+    alignment: "center"  # Center align menu items
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: particpants.qmd
+        text: "Participants"
+      - href: https://docs.google.com/document/d/1rvC_asYK3vXio28lz4e-QqHam_O71q07A85ARUE1EYE/edit?usp=sharing
+        text: "Pre-Read Material"
+      - href: schedule.qmd
+        text: "Schedule"
+
+  back-to-top-navigation: true
+  google-analytics: G-N2S7VXS1QK
+  body-footer: |
+    ![](images/logos.png){ width=600px style="display: block; margin: 0 auto;" }
+
+
+format:
+  html:
+    theme: cerulean
+    css: styles.css
+    toc: false
+    page-layout: full
+
+

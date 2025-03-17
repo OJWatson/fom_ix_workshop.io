@@ -1,0 +1,11 @@
+---
+title: "Sherwin Varghese"
+subtitle: "Computing"
+image: headshots/sherwin-varghese.png
+categories:
+  - Research Assistant
+about:
+  template: jolla
+---
+
+Sherwin Varghese is a research assistant within the Safe AI Labs (SAIL) led by Prof. Alessio Lomuscio at the Department of Computing, Imperial College London. Additionally, he is a UKRI funded Ph.D. student in the Department of Computing. His current research focuses on improving the robustness of temporal AI systems - specifically, techniques to improve the scalability of formal verification for video based systems.

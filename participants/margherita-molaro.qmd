@@ -1,0 +1,11 @@
+---
+title: "Margherita Molaro"
+subtitle: "School of Public Health"
+image: headshots/margherita-molaro.png
+categories:
+  - Research Fellow
+about:
+  template: jolla
+---
+
+Margherita Molaro is a research fellow in the School of Public Health. She works on health-system modelling and resource allocation questions using the Thanzi La Onse model (www.tlomodel.org) and has a background in computational astrophysics. 

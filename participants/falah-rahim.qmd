@@ -1,0 +1,11 @@
+---
+title: "Falah Rahim"
+subtitle: "Surgery and Cancer"
+image: headshots/falah-rahim.png
+categories:
+  - Advanced Research Fellow
+about:
+  template: jolla
+---
+
+I am an Al/XR specialist, who holds an M.S. in Electrical-Electronics and Telecommunications from the University Technology Malaysia, Malaysia, and a Ph.D. in Electrical and Computer Engineering from the University of Lisbon, Portugal. Currently,  I am a visiting researcher at  Imperial College London, focusing on developing Al models for digital pathology.

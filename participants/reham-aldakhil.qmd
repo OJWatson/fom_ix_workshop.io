@@ -1,0 +1,11 @@
+---
+title: "Reham Aldakhil"
+subtitle: "School of Public Health"
+image: headshots/reham-aldakhil.png
+categories:
+  - PhD Student
+about:
+  template: jolla
+---
+
+Reham Aldakhil is a PhD student in the Global Digital Health Unit at School of Public Health, with over 10 years of clinical and digital health experience, combining expertise in pharmacy practice and health informatics. Her current research focuses on investigating the impact of virtual consultations on healthcare delivery and patient outcomes, with particular interest in applying machine learning models to optimise healthcare service utilization and improve patient engagement in type 2 diabetes care.
