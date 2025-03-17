@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,10 +34,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-88bdc619b6f79bb4ac0cf564e2edc84e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -125,7 +125,7 @@ gtag('config', 'G-N2S7VXS1QK', { 'anonymize_ip': true});
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">AI in Medicine Workshop</h1>
-<p class="subtitle lead">18 February 2025, I-X</p>
+<p class="subtitle lead">18 February 2025, I-X,I-HUB</p>
 </div>
 
 
@@ -168,8 +168,23 @@ AI in Medicine Workshop
 <section id="venue" class="level2">
 <h2 class="anchored" data-anchor-id="venue">Venue</h2>
 <p>The workshop will take place at:</p>
-<p><strong>I-X (Level 6), Translation and Innovation Hub (I-HUB), Imperial White City Campus</strong><br>
-<a href="https://maps.app.goo.gl/zESc6iByAM7MNxZU7">Google Maps</a></p>
+<ul>
+<li><strong>Date:</strong> Tuesday 18 March. 2:30pm - 5:30pm</li>
+<li><strong>Location:</strong>
+<ul>
+<li>LRT 608A+B, I-X, 6th Floor I-HUB (Translation &amp; Innovation Hub)</li>
+<li>Imperial College White City Campus</li>
+<li>84 Wood Lane</li>
+<li>London</li>
+<li>W12 0BZ</li>
+<li><a href="https://maps.app.goo.gl/7frVbSAWWfQgtm757">Location Map</a></li>
+</ul></li>
+<li><strong>How to Reach the Event</strong>:
+<ul>
+<li><a href="https://www.imperial.ac.uk/white-city-campus/about-us/how-to-find-us/">Directions to the White City Campus</a></li>
+<li>On arrival at the I-Hub, reception will give you access to the lifts to reach the 6th floor. Please follow signs to LRT 608A+B</li>
+</ul></li>
+</ul>
 <hr>
 
 
@@ -258,8 +273,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -370,7 +383,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
