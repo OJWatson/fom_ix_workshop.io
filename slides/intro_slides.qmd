@@ -7,6 +7,7 @@ format:
     incremental: false
     theme: [default, custom.scss]
     footer: "Collaborative Workshop on AI in Medicine · Imperial I-X White City · 18 March 2025"
+    logo: images/logos.png
 ---
 
 # Welcome {.smaller}
@@ -43,6 +44,9 @@ format:
   - Role
   - Department
   - Research focus  
+- **Roles**:
+  - Facilitators
+  - Moderators
 
 ---
 
@@ -125,8 +129,8 @@ format:
 
 - **Summary of Insights** 
 - **Acknowledgments**: 
-  - **Participants** 
-  - **Lauren, Wiktoria, Kimberley** 
+  - Lauren, Wiktoria, Kimberley
+  - Participants
 - **Next Steps**
 
 ---
@@ -134,11 +138,11 @@ format:
 # Networking Reception {.smaller}
 
 :::{.columns}
-::: {.column width="60%"}
-![](networking.png)
-:::
 ::: {.column width="40%"}
-- **Join Us Next Door**: The workshop formally concludes, but all are invited to the reception in the lounge area. Enjoy some refreshments, informal chat and the best view in the White City Campus (in my opinion!)  
+![](images/networking.png)
+:::
+::: {.column width="60%"}
+- **Join Us Next Door**: The workshop formally concludes, but all are invited to the reception in the lounge area. Enjoy some refreshments, informal chat and the best view in the White City Campus (in my opinion 🌈)  
 - **Keep Connecting**: Use this time to follow up with someone you wanted to talk to but didn’t get a chance to during the sessions.
 - **Website Resource**: We will circulate the website and a post event attendee list to help you connect again with other attendees and build from this event.   
 :::
