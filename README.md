@@ -1,9 +1,9 @@
-## CEMA-MRC-Hackathon Website - Bridging The Gap Hackathon
+## Collaborative Workshop on AI in Medicine Website
 
 <!-- badges: start -->
 
-![Quarto Website Publish](https://github.com/CEMA-MRC-Hackathon/cema-mrc-hackathon.github.io/actions/workflows/publish.yml/badge.svg)
+![Quarto Website Publish](https://github.com/ojwatson/fom_ix_workshop.io/actions/workflows/publish.yml/badge.svg)
 
 <!-- badges: end -->
 
-Please see the [workshop website](https://cema-mrc-hackathon.github.io/) for details.
+Please see the [workshop website](https://ojwatson.github.io/fom_ix_workshop.io/) for details.

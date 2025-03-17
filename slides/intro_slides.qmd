@@ -1,18 +1,18 @@
 ---
-title: "AI in Medicine Workshop"
+title: "Collaborative Workshop on AI in Medicine"
 subtitle: "Imperial I-X, White City Campus – Collaborative AI in Healthcare Event"
 date: "Tuesday, 18 March 2025"
 format:
   revealjs:
-    incremental: true
+    incremental: false
     theme: [default, custom.scss]
-    footer: "AI in Medicine Workshop · Imperial I-X White City · 18 March 2025"
+    footer: "Collaborative Workshop on AI in Medicine · Imperial I-X White City · 18 March 2025"
 ---
 
 # Welcome {.smaller}
 
 :::{.columns}
-::: {.column width="70%"}
+::: {.column width="70%" .incremental}
 - **Who is here**: Diverse researchers, clinicians, and innovators from across Imperial College, all bringing unique expertise in health and AI.  
 - **Why we’re here**: To foster interdisciplinary collaborations and inspire innovative AI applications in medicine (with an eye on future funding).  
 - **Workshop goals**: Build connections, share knowledge, and set the stage for ongoing partnerships in AI-driven healthcare.  
@@ -36,7 +36,7 @@ format:
 
 ---
 
-# Who’s in the Room? {.smaller}
+# Who’s in the Room? {.smaller .incremental}
 
 - **Introductions**: Each participant **briefly** introduce themselves:
   - Name
@@ -46,7 +46,7 @@ format:
 
 ---
 
-# Working Groups - Group around tables { .smaller}
+# Working Groups - Group around tables { .smaller .incremental}
 
 - **Group 1: Health Policy and Resource Planning**  
     - Ana Espinosa-Gonzalez, Rachel Christie, Margherita Molaro, Ahmed Alboksmaty, Kelly Zhang, Tricia Tay  
@@ -138,8 +138,8 @@ format:
 ![](networking.png)
 :::
 ::: {.column width="40%"}
-- **Join Us Next Door**: The workshop formally concludes, but all are invited to the reception in the lounge area. Enjoy some refreshments, informal chat and the best view in the White City Campus.  
+- **Join Us Next Door**: The workshop formally concludes, but all are invited to the reception in the lounge area. Enjoy some refreshments, informal chat and the best view in the White City Campus (in my opinion!)  
 - **Keep Connecting**: Use this time to follow up with someone you wanted to talk to but didn’t get a chance to during the sessions.
-- **Website Resource**: We will circulate the website and a post event attendee list to help you connect again with other attendees.   
+- **Website Resource**: We will circulate the website and a post event attendee list to help you connect again with other attendees and build from this event.   
 :::
 :::

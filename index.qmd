@@ -1,5 +1,5 @@
 ---
-title: "AI in Medicine Workshop"
+title: "Collaborative Workshop on AI in Medicine"
 subtitle: "18 February 2025, I-X,I-HUB"
 format:
   html:
@@ -8,13 +8,13 @@ format:
 
 
 <div style="text-align: center;">
-  <h1>AI in Medicine Workshop</h1>
+  <h1>Collaborative Workshop on AI in Medicine</h1>
   <p class="subtitle lead">18 February 2025, I-X</p>
 </div>
 
 --- 
 
-The "AI in Medicine Workshop" is a half-day event bringing together researchers, clinicians, data scientists, and AI experts from across Imperial College London to explore innovative applications of AI in medicine. The event aims to foster interdisciplinary collaborations and catalyse future funding opportunities for AI-driven healthcare research.
+The "Collaborative Workshop on AI in Medicine" is a half-day event bringing together researchers, clinicians, data scientists, and AI experts from across Imperial College London to explore innovative applications of AI in medicine. The event aims to foster interdisciplinary collaborations and catalyse future funding opportunities for AI-driven healthcare research.
 
 To facilitate these connections, this workshop provides a space for Imperial researchers from diverse disciplines to share expertise, identify synergies, and initiate new collaborations that can lead to innovative research and funding proposals.
 
