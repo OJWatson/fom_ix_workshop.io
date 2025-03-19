@@ -47,6 +47,7 @@ format:
 - **5:15 – 5:30 PM** – *Closing Remarks*: Summary of insights, next steps, and opportunities for ongoing collaboration.  
 - **5:30 PM onward** – *Networking Reception*: Informal conversations over drinks & refreshments to continue building connections.  
 
+- **Restrooms** are opposite the lifts where you came in
 ---
 
 # Who’s in the Room? {.smaller}
@@ -59,7 +60,7 @@ format:
   - Research focus  
 - **Roles**:
   - Facilitators 🟢
-  - Recorder 🟡
+  - Recorder 🔵
   - Rapporteurs ⚪
 :::
 ::: {.column width="20%"}
@@ -135,7 +136,7 @@ format:
 
 - Upon arrival, you received **a card with three participants’ names**.
 - **Step 1:** Find the person on your card and introduce yourself.
-- **Step 2:** Have a **5-minute conversation** using these prompts:
+- **Step 2:** Have a **3-minute conversation** using these prompts:
   - *What’s your research focus?*
   - *What is a challenge in your research or practice?*
   - *What area of AI excites you the most in your field?*
